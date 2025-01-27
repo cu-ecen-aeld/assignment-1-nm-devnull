@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "Ubuntu",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus24.actions.githubusercontent.com/diabz7ZJCereBq10k84soFikylOOSU7EApdFOGzUCfhOvPFC6q/",
+  "gitHubUrl": "https://github.com/cu-ecen-aeld/assignment-1-nm-devnull",
+  "workFolder": "_work"
+}
